@@ -5,8 +5,8 @@ body {
   background: white;
   margin: 0;
   display: grid;
-  grid-template-columns:  auto repeat(4, 1fr) auto;
-  grid-template-rows: repeat(8, .164fr);
+  grid-template-columns: repeat(6, 1fr);
+  grid-template-rows: repeat(8,.16fr);
   font-size: 100%;
 }
 
